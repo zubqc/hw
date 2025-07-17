@@ -1,0 +1,10 @@
+.DS_Store
+*.png
+*/tmp
+file?.txt
+fil[a-z].txt
+/ignor.txt
+build/
+**/tmp
+!screenshot1.png
+!examples/**/*.log
